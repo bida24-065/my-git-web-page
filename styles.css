@@ -1,8 +1,8 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
+    margin: 1;
+    padding: 2;
 }
 
 
@@ -59,8 +59,8 @@ footer {
     background-color: #222;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     position: relative;
-    bottom: 0;
+    bottom: 3;
     width: 100%;
 }
