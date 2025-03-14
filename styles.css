@@ -1,110 +1,66 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
 
 
-        body {
-            font-family: Arial,serif;
-            margin: 0;
-            padding: 0;
-            background-color: #000080;
-            color: #000000;
-        }
+nav {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
-        
-        header {
-            background-color: #D4AF37;
-            text-align: center;
-            padding: 20px;
-        }
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 600;
+}
 
+nav a:hover {
+    color: #ffcc00;
+}
 
-        nav {
-            background-color: #000080;
-            padding: 10px 0;
-            text-align: center;
-        }
+.image-container {
+    text-align: center;
+    margin: 20px 0;
+}
 
-        nav ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
+.image-container img {
+    width: 80%;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
 
-        nav ul li {
-            display: inline;
-            margin: 0 15px;
-        }
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    padding: 20px;
+}
 
-        nav ul li a {
-            color: white;
-            text-decoration: none;
-            font-weight: bold;
-            transition: color 0.3s;
-        }
+.image-grid img {
+    width: 100%;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
 
-        nav ul li a:hover {
-            color: #FDFDFB;
-        }
+.image-grid img:hover {
+    transform: scale(1.05);
+}
 
-        .content {
-            text-align: center;
-            padding: 40px;
-        }
-
-        .content h2 {
-            color: #4CAF50;
-        }
-
-        .content p {
-            max-width: 600px;
-            margin: 0 auto;
-            line-height: 1.6;
-        }
-
-        .content button {
-            background-color: #FDFDFB;
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            font-size: 16px;
-            cursor: pointer;
-            border-radius: 5px;
-            margin-top: 10px;
-            transition: background-color 0.3s;
-        }
-
-        .content button:hover {
-            background-color: #FDFDFB;
-        }
-
-    
-        .image-grid {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 15px;
-            padding: 20px;
-        }
-
-        .row {
-            display: row;
-            justify-content: center;
-            gap: 15px;
-        }
-
-        .row img {
-            width: 150px;
-            height: auto;
-            border-radius: 5px;
-            box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
-        }
-
-        
-        footer {
-            background-color: #D4AF37;
-            color: white;
-            text-align: center;
-            padding: 15px;
-            position: relative;
-            bottom: 0;
-            width: 100%;
-        }
-    
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
