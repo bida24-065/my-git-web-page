@@ -4,13 +4,16 @@
             font-family: Arial,serif;
             margin: 0;
             padding: 0;
-            background-color: #F0B9B6;
+            background-image: url('https://img.freepik.com/free-vector/hand-painted-watercolor-flowers-background_52683-61610.jpg?t=st=1741960934~exp=1741964534~hmac=68bce7c25501175551168e2d3ff0fe98af269f257c69fd93c31fabbff28da790&w=996'); 
+            background-size: cover;
+            background-position: center; 
+            background-repeat: no-repeat; 
             color: #333;
         }
 
         
         header {
-            background-image:https://img.freepik.com/free-vector/hand-painted-watercolor-flowers-background_52683-61610.jpg?t=st=1741960934~exp=1741964534~hmac=68bce7c25501175551168e2d3ff0fe98af269f257c69fd93c31fabbff28da790&w=996 white;
+            background-color: #F1DDE4;
             text-align: center;
             padding: 20px;
         }
