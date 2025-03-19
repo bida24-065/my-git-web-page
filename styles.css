@@ -26,34 +26,10 @@ nav a:hover {
     color: #ffcc00;
 }
 
-.image-container {
-    text-align: center;
-    margin: 20px 0;
+.img-tulip { 
+    width: 200px;
 }
 
-.image-container img {
-    width: 80%;
-    max-width: 600px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-
-.image-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 15px;
-    padding: 20px;
-}
-
-.image-grid img {
-    width: 100%;
-    border-radius: 10px;
-    transition: transform 0.3s ease;
-}
-
-.image-grid img:hover {
-    transform: scale(1.05);
-}
 
 footer {
     background-color: #222;
