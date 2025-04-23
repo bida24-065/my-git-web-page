@@ -92,7 +92,16 @@ nav a:hover {
     max-width: 200px;    
     height: auto;
 }
-
+.img-gift-basket-1{
+      width: 100%;         
+    max-width: 200px;    
+    height: auto;
+}
+.img-gift-basket{
+      width: 100%;         
+    max-width: 200px;    
+    height: auto;
+}
 footer {
     background-color: #222;
     color: white;
