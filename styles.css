@@ -1,8 +1,8 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f4f4f4;
-    margin: 1;
-    padding: 2;
+    margin: 1em;
+    padding: 2em;
 }
 
 
@@ -38,10 +38,10 @@ nav a:hover {
 .img-snapdragon{
     width: 200px;
 }
-.img-arabic jasmine{
+.img-arabic-jasmine{
     width: 200px;
 }
-.img-cherry blossoms{
+.img-cherry-blossoms{
     width: 200px;
 }
 .img-Daisies{
@@ -72,6 +72,6 @@ footer {
     text-align: center;
     padding: 20px;
     position: relative;
-    bottom: 3;
+    bottom: 3rem;
     width: 100%;
 }
