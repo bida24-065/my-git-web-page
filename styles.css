@@ -27,43 +27,70 @@ nav a:hover {
 }
 
 .img-roses{
-    width: 200px;
+     width: 100%;         
+    max-width: 200px;    
+    height: auto;
+    
 }
 .img-tulip{
-    width: 200px;
+      width: 100%;         
+    max-width: 200px;    
+    height: auto;
 }
 .img-dahilia{
-    width: 200px;
+      width: 100%;         
+    max-width: 200px;    
+    height: auto;
 }
 .img-snapdragon{
-    width: 200px;
+      width: 100%;         
+    max-width: 200px;    
+    height: auto;
 }
 .img-arabicjasmine{
-    width: 200px;
+      width: 100%;         
+    max-width: 200px;    
+    height: auto;
 }
 .img-cherryblossoms{
-    width: 200px;
+      width: 100%;         
+    max-width: 200px;    
+    height: auto;
 }
 .img-Daisies{
-    width: 200px;
+      width: 100%;         
+    max-width: 200px;    
+    height: auto;
 }
 .img-freesia{
-    width: 200px;
+      width: 100%;         
+    max-width: 200px;    
+    height: auto;
 }
 .img-hydrangea{
-    width: 200px;
+      width: 100%;         
+    max-width: 200px;    
+    height: auto;
 }
 .img-iris{
-    width: 200px;
+      width: 100%;         
+    max-width: 200px;    
+    height: auto;
 }
 .img-lavender{
-    width: 200px;
+      width: 100%;         
+    max-width: 200px;    
+    height: auto;
 }
 .img-orchids{
-    width: 200px;
+      width: 100%;         
+    max-width: 200px;    
+    height: auto;
 }
 .img-peonies{
-    width: 200px;
+      width: 100%;         
+    max-width: 200px;    
+    height: auto;
 }
 
 footer {
