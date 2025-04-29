@@ -27,74 +27,79 @@ nav a:hover {
     color: #ffcc00;
 }
 
-.img-roses{
+.img-roses {
      width: 100%;         
     max-width: 200px;    
     height: auto;
     
 }
-.img-tulip{
+.img-tulip {
       width: 100%;         
     max-width: 200px;    
     height: auto;
 }
-.img-dahilia{
+.img-dahilia {
       width: 100%;         
     max-width: 200px;    
     height: auto;
 }
-.img-snapdragon{
+.img-snapdragon {
       width: 100%;         
     max-width: 200px;    
     height: auto;
 }
-.img-arabicjasmine{
+.img-arabicjasmine {
       width: 100%;         
     max-width: 200px;    
     height: auto;
 }
-.img-cherryblossoms{
+.img-cherryblossoms {
       width: 100%;         
     max-width: 200px;    
     height: auto;
 }
-.img-Daisies{
+.img-daisies {
       width: 100%;         
     max-width: 200px;    
     height: auto;
 }
-.img-freesia{
+.img-freesia {
       width: 100%;         
     max-width: 200px;    
     height: auto;
 }
-.img-hydrangea{
+.img-hydrangea {
       width: 100%;         
     max-width: 200px;    
     height: auto;
 }
-.img-iris{
+.img-iris {
       width: 100%;         
     max-width: 200px;    
     height: auto;
 }
-.img-lavender{
+.img-lavender {
       width: 100%;         
     max-width: 200px;    
     height: auto;
 }
-.img-orchids{
+.img-orchids {
       width: 100%;         
     max-width: 200px;    
     height: auto;
 }
-.img-peonies{
+.img-peonies {
       width: 100%;         
     max-width: 200px;    
     height: auto;
 }
-.img-gift-basket{
+.img-gift-basket {
       width: 100%;         
+    max-width: 200px;    
+    height: auto;
+}
+img {
+   width: 100%;         
     max-width: 200px;    
     height: auto;
 }
