@@ -104,15 +104,7 @@ img {
     height: auto;
     
 }
-.side-nav {
-      width: 250px;
-      padding: 20px;
-      background-color: #89CFF0;
-      color: white;
-      height: 100vh;
-      position: fixed;
-      box-shadow: 2px 0 5px rgba(0,0,0,0.1);
-        }
+
         
 .logo-container {
       text-align: center;
